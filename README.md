@@ -6,5 +6,9 @@ HTML-CSS kullanıldı.
 
 Responsive yapı kullanıldı
 
+# Desploy
+
+https://flower-html-css.netlify.app/
+
 ![](screen.gif)
 
