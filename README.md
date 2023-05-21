@@ -4,7 +4,7 @@
 
 HTML-CSS kullanıldı.
 
-Responsive apı kullanıldı
+Responsive yapı kullanıldı
 
 ![](screen.gif)
 
